@@ -7,7 +7,7 @@ Lead Engineer
 With a strong foundation in backend technologies such as Python, GoLang, and Node.js, I specialize in transforming business requirements into scalable and efficient solutions. My leadership extends beyond coding—I'm dedicated to fostering a collaborative environment where innovation thrives.
 
 * 🌍  I'm based in Bengaluru, India
-* 🖥️  See my portfolio at [MyPortfolio](http://krisalay.github.io/portfolio/)
+* 🖥️  See my portfolio at [MyPortfolio](https://krisalay.github.io/developerFolio/)
 * 🧠  I'm learning Machine Learning and AI
 * ⚡  I am dedicated to continuous learning and staying updated on the latest industry trends. I believe in the power of technology to drive positive change and am always excited to take on new challenges. Whether it's designing scalable architectures or mentoring a team to success, I am committed to delivering excellence in every aspect of software engineering.
 
